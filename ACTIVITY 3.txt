@@ -1,0 +1,3 @@
+I have successfully pushed Activity 1 to github and added two screenshots prefixed with `ACTIVITY 3`.
+
+https://github.com/RedstoneWolf2001/Activity-1
